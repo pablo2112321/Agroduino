@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "360787918285",
+    "firebase_url": "https://agroduino-1b35c-default-rtdb.firebaseio.com",
+    "project_id": "agroduino-1b35c",
+    "storage_bucket": "agroduino-1b35c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360787918285:android:dadb21da773690b7ca1884",
+        "android_client_info": {
+          "package_name": "com.example.agroduino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZDJ7bNxhLjX_YIROZe60picvdV9u3q1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
